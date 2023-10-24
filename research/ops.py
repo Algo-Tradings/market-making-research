@@ -1,5 +1,4 @@
 import pandas as pd
-# pd.set_option('display.float_format', lambda x: '%.8f' % x)
 pd.set_option('display.precision', 9)
 
 

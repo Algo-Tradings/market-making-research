@@ -1,2 +1,2 @@
 # market-making-research
- Cross exchange research to find the best market making cryptocurrencies
+ Asynchronous cross exchange research to find the best market making cryptocurrencies
